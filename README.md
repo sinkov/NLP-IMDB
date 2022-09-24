@@ -5,4 +5,4 @@ For the sake of redundancy, your goal is to classify each movie review “i” i
 0/not helpful: less than 30% of IMDB users found movie review “i” helpful 
 1/helpful: more than 70% of IMDB users found movie review “i” helpful 
 # Data and file description
-The training data (train.csv, see the download area below) contains 10,755 labelled reviews. The test data contains 5,071 reviews that are unlabeled (test.csv, see below). All the reviews included in the dataset have at least 80 votes. Contextual information: the following kernel density plot displays the distribution of the percentage of helpful votes out of the total votes each review received. The dataset for this  FCP focuses on the left- and right-hand ‘tails’ of the distribution.
+The training data (train.csv, see the download area below) contains 10,755 labelled reviews. The test data contains 5,071 reviews that are unlabeled (test.csv, see below). All the reviews included in the dataset have at least 80 votes. The dataset for this  FCP focuses on the left- and right-hand ‘tails’ of the distribution.
